@@ -1,4 +1,4 @@
-# item editor (SQL-raltional DB)
+## item editor (SQL-raltional DB)
 
 The Python code utilizes the Tkinter library to create a graphical user interface (GUI) for an item editor application. The application allows users to manage and edit items with associated questions and answers. The data is stored and managed using an SQLite database.
 
